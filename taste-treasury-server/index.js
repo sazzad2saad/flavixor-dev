@@ -16,7 +16,10 @@ const { MongoClient, ServerApiVersion, ObjectId } = require("mongodb");
 //middleware
 app.use(
   cors({
-    origin: ["http://localhost:5173"],
+    origin: [
+      "http://localhost:5173",
+      "https://tastetreasury.netlify.app" 
+    ],
     credentials: true,
   })
 );
@@ -242,6 +245,6 @@ app.get("/", (req, res) => {
   res.send("Server Running");
 });
 
-app.listen(port, () => {
+app.listen(port, '0.0.0.0' () => {
   console.log(`taste treasury server is running at port: ${port}`);
 });
