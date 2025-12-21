@@ -245,6 +245,6 @@ app.get("/", (req, res) => {
   res.send("Server Running");
 });
 
-app.listen(port, '0.0.0.0' () => {
+app.listen(port, '0.0.0.0', () => {
   console.log(`taste treasury server is running at port: ${port}`);
 });
