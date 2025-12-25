@@ -18,7 +18,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://tastetreasury.netlify.app" 
+      "https://flavixor.netlify.app" 
     ],
     credentials: true,
   })

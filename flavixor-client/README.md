@@ -4,7 +4,7 @@
 
 🔗 **Live Site:**
 
-- [Flavixor Live (Netlify)](https://tastetreasury.netlify.app/)
+- [Flavixor Live (Netlify)](https://flavixor.netlify.app/)
 
 ---
 
@@ -109,7 +109,7 @@ To install dependencies manually, use:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/sazzad2saad/taste-treasury-dev.git
+    git clone https://github.com/sazzad2saad/flavixor-dev.git
     ```
 2.  Navigate to the project directory:
     ```bash

@@ -4,7 +4,7 @@ This is the backend server for **Flavixor**, the restaurant management platform.
 
 🔗 **Live API Endpoint:**  
 - [Flavixor Backend (Render)](https://taste-treasury-server.onrender.com/)  
-- [Flavixor Frontend (netlify)](https://tastetreasury.netlify.app/)  
+- [Flavixor Frontend (netlify)](https://flavixor.netlify.app/)  
 
 ---
 
@@ -103,13 +103,13 @@ Registers a new user.
 1. Clone the repository:  
 
     ```bash
-    git clone https://github.com/sazzad2saad/taste-treasury-dev.git
+    git clone https://github.com/sazzad2saad/flavixor-dev.git
     ```  
 
 2. Install dependencies:  
 
     ```bash
-    cd taste-treasury-backend  
+    cd flavixor-server  
     npm install  
     ```  
 
@@ -134,7 +134,7 @@ The server will run on `http://localhost:5000` by default.
 
 ### **🛠️ Project Structure**  
 
-taste-treasury-backend/  
+flavixor-server/  
 │  
 ├── .env                    # Environment variables (e.g., DB credentials)  
 ├── node_modules/           # Dependencies installed via npm  
