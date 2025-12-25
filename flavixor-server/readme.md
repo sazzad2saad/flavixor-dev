@@ -3,8 +3,8 @@
 This is the backend server for **Taste Treasury**, the restaurant management platform. It is built using **Node.js**, **Express**, and **MongoDB**, providing a robust API for managing restaurant operations such as menus, orders, and user authentication.
 
 🔗 **Live API Endpoint:**  
-- [Taste Treasury Backend (Vercel)]()  
-- [Taste Treasury Frontend (netlify)]()  
+- [Taste Treasury Backend (Render)](https://taste-treasury-server.onrender.com/)  
+- [Taste Treasury Frontend (netlify)](https://tastetreasury.netlify.app/)  
 
 ---
 
