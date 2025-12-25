@@ -68,7 +68,7 @@ export default function FoodPurchase() {
   return (
     <div className="min-h-[calc(100vh-376.8px)] bg-gray-50 dark:bg-gray-900 flex items-center justify-center px-4 py-12">
       <Helmet>
-        <title>Buy {foodName} | Taste Treasury</title>
+        <title>Buy {foodName} | Flavixor</title>
       </Helmet>
       <div className="max-w-4xl w-full bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden">
         {/* card */}

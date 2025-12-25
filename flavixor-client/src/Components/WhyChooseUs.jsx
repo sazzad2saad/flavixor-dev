@@ -59,7 +59,7 @@ export default function WhyChooseUs() {
           <Fade cascade>
             {" "}
             <h2 className="text-4xl font-extrabold text-gray-800 dark:text-white">
-              Why Choose <span className="text-blue-600">Taste Treasury</span>?
+              Why Choose <span className="text-blue-600">Flavixor</span>?
             </h2>
             <p className="mt-4 text-gray-600 dark:text-gray-400 md:w-10/12 mx-auto">
               We are committed to delivering the best food experience with

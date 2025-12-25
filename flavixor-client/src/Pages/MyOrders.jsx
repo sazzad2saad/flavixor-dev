@@ -29,7 +29,7 @@ export default function MyOrders() {
   return (
     <div className="min-h-[calc(100vh-376.8px)] bg-gray-50 dark:bg-gray-800 px-4 py-8">
       <Helmet>
-        <title>My Orders | Taste Treasury</title>
+        <title>My Orders | Flavixor</title>
       </Helmet>
 
       <div className="lg:mx-10">

@@ -33,7 +33,7 @@ export default function Login() {
   return (
     <div className="min-h-screen flex items-center justify-center ">
       <Helmet>
-        <title>Login | Taste Treasury</title>
+        <title>Login | Flavixor</title>
       </Helmet>
       <div className="bg-white dark:bg-gray-800 p-8 rounded-3xl shadow-xl w-full max-w-md">
         <h2 className="text-4xl font-semibold text-center text-teal-600 dark:text-teal-300 mb-8 tracking-wide">

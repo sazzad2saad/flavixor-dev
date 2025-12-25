@@ -43,7 +43,7 @@ export default function Slider() {
             <div className="hero-content text-neutral-content text-center">
               <div className="max-w-md">
                 <h1 className="mb-5 text-4xl md:text-5xl font-bold text-teal-600 dark:text-teal-400">
-                  Welcome to Taste Treasury
+                  Welcome to Flavixor
                 </h1>
                 <p className="mb-5 text-white dark:text-gray-300">
                   Discover a world of flavors! Explore our curated selection of delectable dishes and satisfy your cravings.
@@ -73,7 +73,7 @@ export default function Slider() {
                   Savor Every Bite
                 </h1>
                 <p className="mb-5 text-white  dark:text-gray-300">
-                  From hearty meals to tempting treats, Taste Treasury has it all. Let the feast begin!
+                  From hearty meals to tempting treats, Flavixor has it all. Let the feast begin!
                 </p>
                 <Link
                   to="/all-foods"

@@ -51,7 +51,7 @@ export default function Register() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-teal-100 via-purple-200 to-blue-100  dark:from-gray-800 dark:via-gray-900 dark:to-black flex items-center justify-center">
       <Helmet>
-        <title>Register | Taste Treasury</title>
+        <title>Register | Flavixor</title>
       </Helmet>
       <div className="bg-white dark:bg-gray-800 p-8 rounded-3xl shadow-lg w-full sm:w-96">
         <h2 className="text-3xl font-bold text-center text-teal-600 dark:text-teal-300 mb-6">

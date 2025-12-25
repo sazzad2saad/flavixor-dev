@@ -10,7 +10,7 @@ export default function Newsletter() {
             <h2 className="text-4xl font-extrabold text-gray-800 dark:text-white">
               Stay Updated with{" "}
               <span className="text-teal-600 dark:text-teal-400">
-                Taste Treasury
+                Flavixor
               </span>
             </h2>
             <p className="mt-4 text-gray-600 dark:text-gray-400">

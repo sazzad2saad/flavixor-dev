@@ -40,7 +40,7 @@ export default function Navbar() {
       <div className="lg:mx-10 flex justify-between items-center">
         {/* Logo */}
         <NavLink to="/" className="text-2xl font-bold text-white">
-          Taste Treasury
+          Flavixor
         </NavLink>
 
         {/* Hamburger */}

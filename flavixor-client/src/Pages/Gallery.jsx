@@ -45,11 +45,11 @@ const Gallery = () => {
   return (
     <div className="p-4 bg-gray-50 dark:bg-gray-900">
       <Helmet>
-        <title>Photo Gallery | Taste Treasury</title>
+        <title>Photo Gallery | Flavixor</title>
       </Helmet>
       <div className="min-h-screen lg:mx-10">
         <PageTitle
-          title={"Gallery | Taste Treasury"}
+          title={"Gallery | Flavixor"}
           image={titleBackground}
         ></PageTitle>
         {loading ? (

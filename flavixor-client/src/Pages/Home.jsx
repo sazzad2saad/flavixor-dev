@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <main>
       <Helmet>
-        <title>Home | Taste Treasury</title>
+        <title>Home | Flavixor</title>
       </Helmet>
       <section>
         <Slider></Slider>

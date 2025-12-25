@@ -1,16 +1,16 @@
-# **Backend for Taste Treasury** 🍴🔧  
+# **Backend for Flavixor** 🍴🔧  
 
-This is the backend server for **Taste Treasury**, the restaurant management platform. It is built using **Node.js**, **Express**, and **MongoDB**, providing a robust API for managing restaurant operations such as menus, orders, and user authentication.
+This is the backend server for **Flavixor**, the restaurant management platform. It is built using **Node.js**, **Express**, and **MongoDB**, providing a robust API for managing restaurant operations such as menus, orders, and user authentication.
 
 🔗 **Live API Endpoint:**  
-- [Taste Treasury Backend (Render)](https://taste-treasury-server.onrender.com/)  
-- [Taste Treasury Frontend (netlify)](https://tastetreasury.netlify.app/)  
+- [Flavixor Backend (Render)](https://taste-treasury-server.onrender.com/)  
+- [Flavixor Frontend (netlify)](https://tastetreasury.netlify.app/)  
 
 ---
 
 ### **🚀 Overview**  
 
-The Taste Treasury backend powers the essential functionalities of the platform, enabling efficient restaurant management. It connects to a **MongoDB** database and provides secure, scalable API endpoints for handling menus, orders, and user data.  
+The Flavixor backend powers the essential functionalities of the platform, enabling efficient restaurant management. It connects to a **MongoDB** database and provides secure, scalable API endpoints for handling menus, orders, and user data.  
 
 ---
 
@@ -185,7 +185,7 @@ Built with 💻 and passion by **Sazzadur Rahman Saad**.
 
 ---
 
-### **🚀 Why Taste Treasury Backend?**  
+### **🚀 Why Flavixor Backend?**  
 
 - **⚡ Efficient and Scalable**  
   Handles growing customer and menu demands seamlessly.  

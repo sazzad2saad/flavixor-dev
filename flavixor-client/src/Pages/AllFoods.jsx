@@ -55,7 +55,7 @@ export default function AllFoods() {
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-800  p-4 ">
       <Helmet>
-        <title>All Foods | Taste Treasury</title>
+        <title>All Foods | Flavixor</title>
       </Helmet>
       <div className="flex flex-col items-center lg:mx-10">
         {/* call pageTitle component */}
@@ -64,7 +64,7 @@ export default function AllFoods() {
         ) : (
           <>
             <PageTitle
-              title={"All Foods | Taste Treasury"}
+              title={"All Foods | Flavixor"}
               image={titleBackground}
             ></PageTitle>
 

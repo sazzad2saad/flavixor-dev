@@ -67,7 +67,7 @@ export default function UpdateFood() {
   return (
     <div className="max-w-3xl mx-auto px-4 py-8 dark:text-white">
       <Helmet>
-        <title>Update Food | Taste Treasury</title>
+        <title>Update Food | Flavixor</title>
       </Helmet>
       <h2 className="text-3xl font-semibold text-center mb-6 text-teal-600 dark:text-teal-400">
         Update Food

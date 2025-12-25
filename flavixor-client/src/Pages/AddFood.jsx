@@ -52,7 +52,7 @@ export default function AddFood() {
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-800 flex items-center justify-center py-6">
       <Helmet>
-        <title>Add Food | Taste Treasury</title>
+        <title>Add Food | Flavixor</title>
       </Helmet>
       <div className="bg-white dark:bg-gray-800 p-8 rounded-lg shadow-lg w-full md:w-2/3 lg:w-1/2 space-y-6">
         <h2 className="text-3xl font-semibold text-center text-teal-600 dark:text-teal-400 mb-6">

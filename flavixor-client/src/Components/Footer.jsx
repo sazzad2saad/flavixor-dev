@@ -9,10 +9,10 @@ const Footer = () => {
         {/* Col 1 */}
         <div className="space-y-4">
           <h2 className="text-3xl font-bold text-yellow-400 dark:text-yellow-300">
-            Taste Treasury
+            Flavixor
           </h2>
           <p className="text-sm text-blue-200 dark:text-gray-400 leading-relaxed">
-            Simplify your restaurant management experience. Taste Treasury
+            Simplify your restaurant management experience. Flavixor
             offers tools to manage, grow, and scale your services.
           </p>
         </div>
@@ -92,7 +92,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="mt-8 border-t border-blue-400 dark:border-gray-600 pt-4 text-center text-sm text-blue-200 dark:text-gray-400">
-        © {new Date().getFullYear()} Taste Treasury. All rights reserved.
+        © {new Date().getFullYear()} Flavixor. All rights reserved.
       </div>
     </footer>
   );

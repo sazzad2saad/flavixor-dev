@@ -246,5 +246,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, '0.0.0.0', () => {
-  console.log(`taste treasury server is running at port: ${port}`);
+  console.log(`Flavixor server is running at port: ${port}`);
 });

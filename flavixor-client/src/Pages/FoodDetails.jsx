@@ -27,7 +27,7 @@ export default function FoodDetails() {
   return (
     <div className="max-w-7xl mx-auto px-6 py-16">
       <Helmet>
-        <title>{foodName} | Taste Treasury</title>
+        <title>{foodName} | Flavixor</title>
       </Helmet>
       <div className="bg-white dark:bg-gray-800 shadow-2xl rounded-3xl overflow-hidden flex flex-col lg:flex-row transition-all duration-300 ease-in-out">
         {/* Food Image */}

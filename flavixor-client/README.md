@@ -1,21 +1,21 @@
-# **Taste Treasury** 🥘🍴
+# **Flavixor** 🥘🍴
 
 **Your Ultimate Destination for Modern Restaurant Management!**
 
 🔗 **Live Site:**
 
-- [Taste Treasury Live (Netlify)](https://tastetreasury.netlify.app/)
+- [Flavixor Live (Netlify)](https://tastetreasury.netlify.app/)
 
 ---
 
 ### **🚀 Overview**  
 
-Taste Treasury is a comprehensive platform designed to revolutionize restaurant management. It combines modern technology with an intuitive user interface to simplify tasks for both customers and administrators.  
+Flavixor is a comprehensive platform designed to revolutionize restaurant management. It combines modern technology with an intuitive user interface to simplify tasks for both customers and administrators.  
 
 - **For Customers**: Explore menus, place orders, and enjoy a seamless browsing experience with responsive design and a light/dark mode toggle.  
 - **For Administrators**: Manage menus, track orders, and interact with customers through a dynamic admin panel equipped with secure tools and real-time updates.  
 
-With features like JWT-based authentication, engaging animations, and AI-driven future enhancements, Taste Treasury ensures a smarter, more efficient restaurant management experience.
+With features like JWT-based authentication, engaging animations, and AI-driven future enhancements, Flavixor ensures a smarter, more efficient restaurant management experience.
 
 Our mission? To **empower the food industry** with innovative tools, delivered in style. 🍽️
 
@@ -74,7 +74,7 @@ Our mission? To **empower the food industry** with innovative tools, delivered i
 ---
 
 ## 📦 Dependencies
-Taste Treasury relies on the following libraries:
+Flavixor relies on the following libraries:
 
 | Dependency                         | Version   | Description |
 |-------------------------------------|-----------|-------------|
@@ -182,7 +182,7 @@ Built with 💻 and passion by **Sazzadur Rahman Saad**.
 
 ---
 
-### **🔥 Why Choose Taste Treasury?**
+### **🔥 Why Choose Flavixor?**
 
 - **🛡️ Trusted by Restaurateurs**  
   Our platform is designed with restaurant owners in mind, ensuring reliability and scalability.
@@ -191,10 +191,10 @@ Built with 💻 and passion by **Sazzadur Rahman Saad**.
   Powered by modern tech for unparalleled performance and security.
 
 - **🌍 Global Vision**  
-  Expanding to bring Taste Treasury to restaurants worldwide, with innovative features on the horizon.
+  Expanding to bring Flavixor to restaurants worldwide, with innovative features on the horizon.
 
 ---
 
 ### **🎯 Get Started Today!**
 
-Visit us at [Taste Treasury Live](#) to explore, manage, and elevate your restaurant operations effortlessly!
+Visit us at [Flavixor Live](#) to explore, manage, and elevate your restaurant operations effortlessly!
